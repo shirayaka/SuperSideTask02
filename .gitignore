@@ -71,3 +71,18 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Art/
+Assets/Stylized Far East/
+Assets/Plugins/
+Assets/Audio/
+Assets/New Terrain.asset
+Assets/New Terrain.asset.meta
+Assets/3D/
+Assets/Animation/
+Assets/Samples/
+Assets/UNFORGED/
+Assets/Terrain/
+Assets/UI/
+Assets/Shaders/
+Assets/Resources/DOTweenSettings.asset
+Assets/Resources/DOTweenSettings.asset.meta
