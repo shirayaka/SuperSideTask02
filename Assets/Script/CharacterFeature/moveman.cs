@@ -17,6 +17,7 @@ public class moveman : MonoBehaviour
     public Transform cam;
 
     //private Inventory inventory;
+    //test edit
     
     //Gravity
     [SerializeField] private float gravity;
